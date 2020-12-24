@@ -1,6 +1,6 @@
 {
   "name": "@zhao.chen/ckeditor5-lineheight-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "LineHeight plugin for CKEditor5",
   "main": "src/lineheight.js",
   "dependencies": {
