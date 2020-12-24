@@ -1,21 +1,21 @@
 {
-  "name": "ckeditor5-line-height",
-  "version": "0.3.1",
+  "name": "ckeditor5-lineHeight-plugin",
+  "version": "1.0.0",
   "description": "LineHeight plugin for CKEditor5",
   "main": "src/lineheight.js",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^11.0.1",
-    "@ckeditor/ckeditor5-engine": "^11.0.0",
-    "@ckeditor/ckeditor5-ui": "^11.1.0",
-    "@ckeditor/ckeditor5-utils": "^11.0.0"
+    "@ckeditor/ckeditor5-core": "^24.0.0",
+    "@ckeditor/ckeditor5-engine": "^24.0.0",
+    "@ckeditor/ckeditor5-ui": "^24.0.0",
+    "@ckeditor/ckeditor5-utils": "^24.0.0"
   },
   "devDependencies": {
-    "@ckeditor/ckeditor5-cloud-services": "^10.1.0",
-    "@ckeditor/ckeditor5-editor-classic": "^11.0.1",
-    "@ckeditor/ckeditor5-highlight": "^10.0.3",
-    "@ckeditor/ckeditor5-paragraph": "^10.0.3",
+    "@ckeditor/ckeditor5-cloud-services": "^24.0.0",
+    "@ckeditor/ckeditor5-editor-classic": "^24.0.0",
+    "@ckeditor/ckeditor5-highlight": "^24.0.0",
+    "@ckeditor/ckeditor5-paragraph": "^24.0.0",
     "eslint": "^5.5.0",
-    "eslint-config-ckeditor5": "^1.0.7",
+    "eslint-config-ckeditor5": "^3.1.0",
     "husky": "^0.14.3",
     "lint-staged": "^7.0.0"
   },
@@ -25,11 +25,11 @@
   },
   "author": "vdfor",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://github.com/vdfor/ckeditor5-line-height",
-  "bugs": "https://github.com/vdfor/ckeditor5-line-height/issues",
+  "homepage": "https://github.com/duangs/ckeditor5-line-height",
+  "bugs": "https://github.com/duangs/ckeditor5-line-height/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vdfor/ckeditor5-line-height.git"
+    "url": "https://github.com/duangs/ckeditor5-line-height.git"
   },
   "files": [
     "lang",
